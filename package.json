@@ -1,0 +1,11 @@
+{
+  "name": "@hungntsol/env",
+  "version": "1.0.0",
+  "description": "get environment variable from window object or process.env",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hungntsol",
+  "license": "ISC"
+}
